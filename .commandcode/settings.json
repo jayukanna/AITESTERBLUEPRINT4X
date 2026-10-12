@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Shell(.venvScriptspython.exe:*)",
+      "Shell(git:*)"
+    ],
+    "deny": [],
+    "defaultMode": "default"
+  }
+}

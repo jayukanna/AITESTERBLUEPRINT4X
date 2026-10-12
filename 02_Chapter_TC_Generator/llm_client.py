@@ -3,7 +3,7 @@
 import requests
 
 OLLAMA_MODEL = "gemma3:1b"
-GROQ_MODEL = "llama-3.3-70b-versatile"
+GROQ_MODEL = "openai/gpt-oss-120b"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
